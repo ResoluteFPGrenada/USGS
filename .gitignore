@@ -1,0 +1,5 @@
+#databases
+database
+*.db
+
+#Logs
