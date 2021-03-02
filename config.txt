@@ -1,0 +1,17 @@
+{
+	'attempts': 0,
+	'missedTimes' : [],
+	'email' : [
+		'jason.hodges@resolutefp.com',
+		'dwight.devall@resolutefp.com'
+	],
+	'siteURL': 'https://waterservices.usgs.gov/nwis/iv/?site=07285500&format=json,1.1',
+	'piData': [
+		{'piTag': 'propertyName'},
+		{'piTag' : 'propertyName'}
+	],
+	'sqLiteData' : [
+		{'db' : ""},
+		{'data' : []}
+	]
+}
